@@ -1,0 +1,2 @@
+to run the model  go to model folder then read the readme.md file in that file i will give the step how to run model
+and to run the application go to  imageprocessingCNN folder then read the readme file step are given here 
